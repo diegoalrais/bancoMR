@@ -10,7 +10,7 @@ Minhas alterações:
 
 3. Na tela do item Conta o usuário verá suas principais informações;
 
-4. No item configurações o usuário possui algumas alterações que podem ser feitas pela ativação do swich. No botão salvar quando clicado aparece uma mensagem; 
+4. No item configurações o usuário possui algumas alterações que podem ser feitas pela ativação do switch. No botão salvar quando clicado aparece uma mensagem; 
 
 5. Ao entrar na aba faturas adicionei uma função no botão para informar o sucesso no pagamento da conta;
 

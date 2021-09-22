@@ -18,7 +18,7 @@ Minhas alterações:
 
 7. Em transferência comum também adicionei uma mensagem de sucesso como mera ilustração;
 
-8. No Pix adicionei dois botões confirmar e cancelar. Como nos outros o confirmar apresenta uma mensagem de êxito enquanto o cancelar retorna a Acitivity Main.
+8. No Pix adicionei dois botões confirmar e cancelar. Como nos outros o confirmar apresenta uma mensagem de êxito enquanto o cancelar retorna a Activity Main.
 
    
 

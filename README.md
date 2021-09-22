@@ -20,7 +20,6 @@ Minhas alterações:
 
 8. No Pix adicionei dois botões confirmar e cancelar. Como nos outros o confirmar apresenta uma mensagem de êxito enquanto o cancelar retorna a Activity Main.
 
-   
-
 [Apresentação](https://youtu.be/MhW7ZAQViZA)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego_Morais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-morais-9666a61a9)](https://www.linkedin.com/in/diego-morais-9666a61a9)    [![Gmail Badge](https://img.shields.io/badge/-diegoalrais@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoalrais@gmail.com)](mailto:diegoalrais@gmail.com)
